@@ -15,6 +15,7 @@ import rahulshettyacademy.AbstractComponents.SeleniumUtils;
 public class CartPage extends AbstractComponent {
 	
 	// New commments are added
+	// Second comment Added to Test Github push and Jenkins run
 	
 	WebDriver driver;
 	

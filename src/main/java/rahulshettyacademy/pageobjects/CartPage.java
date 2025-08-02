@@ -14,6 +14,8 @@ import rahulshettyacademy.AbstractComponents.SeleniumUtils;
 
 public class CartPage extends AbstractComponent {
 	
+	// New commments are added
+	
 	WebDriver driver;
 	
 	@FindBy(css=".totalRow button")

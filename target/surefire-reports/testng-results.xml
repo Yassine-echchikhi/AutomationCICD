@@ -2,35 +2,35 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-01T00:31:01 CEST" name="Suite" finished-at="2025-08-01T00:31:17 CEST" duration-ms="16076">
+  <suite started-at="2025-08-02T00:19:06 CEST" name="Suite" finished-at="2025-08-02T00:19:23 CEST" duration-ms="16297">
     <groups>
       <group name="ErrorHandling">
         <method signature="ErrorValidationsTest.LoginErrorValidation()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" name="LoginErrorValidation" class="rahulshettyacademy.tests.ErrorValidationsTest"/>
       </group> <!-- ErrorHandling -->
     </groups>
-    <test started-at="2025-08-01T00:31:01 CEST" name="Error Validations Test" finished-at="2025-08-01T00:31:17 CEST" duration-ms="16076">
+    <test started-at="2025-08-02T00:19:06 CEST" name="Error Validations Test" finished-at="2025-08-02T00:19:23 CEST" duration-ms="16297">
       <class name="rahulshettyacademy.tests.ErrorValidationsTest">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:01 CEST" name="launchApplication" finished-at="2025-08-01T00:31:04 CEST" duration-ms="3443" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:06 CEST" name="launchApplication" finished-at="2025-08-02T00:19:09 CEST" duration-ms="2187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="LoginErrorValidation()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:04 CEST" name="LoginErrorValidation" finished-at="2025-08-01T00:31:08 CEST" duration-ms="3488" status="PASS">
+        <test-method signature="LoginErrorValidation()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:09 CEST" name="LoginErrorValidation" finished-at="2025-08-02T00:19:13 CEST" duration-ms="4200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginErrorValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:08 CEST" name="tearDown" finished-at="2025-08-01T00:31:08 CEST" duration-ms="290" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:13 CEST" name="tearDown" finished-at="2025-08-02T00:19:14 CEST" duration-ms="1062" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:08 CEST" name="launchApplication" finished-at="2025-08-01T00:31:12 CEST" duration-ms="3993" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:14 CEST" name="launchApplication" finished-at="2025-08-02T00:19:17 CEST" duration-ms="2823" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="ProductErrorValidation()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:12 CEST" name="ProductErrorValidation" finished-at="2025-08-01T00:31:16 CEST" duration-ms="4445" status="PASS">
+        <test-method signature="ProductErrorValidation()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:17 CEST" name="ProductErrorValidation" finished-at="2025-08-02T00:19:22 CEST" duration-ms="5637" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProductErrorValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-01T00:31:16 CEST" name="tearDown" finished-at="2025-08-01T00:31:17 CEST" duration-ms="363" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:rahulshettyacademy.tests.ErrorValidationsTest@5f8e8a9d]" started-at="2025-08-02T00:19:22 CEST" name="tearDown" finished-at="2025-08-02T00:19:23 CEST" duration-ms="319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
